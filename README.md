@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nurullahozatak
-- 👀 I’m interested in sketch art, music and software
-- 🌱 I’m currently learning as software language java, c# and phyton, as normal language English and Spanish
+- 👀 I’m interested in sketch art (You can visit my instagram account @nurullah_oztk_art) , music and software
+- 🌱 I’m currently learning as software language java, c#, c++ and phyton, as normal language English and Spanish
 - 💞️ I’m looking to collaborate on java, c#, cyber security
 - 📫 How to reach me e mail: nrllh.319@gmail.com
 
